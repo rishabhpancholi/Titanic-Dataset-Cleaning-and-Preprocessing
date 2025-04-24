@@ -1,5 +1,4 @@
 # Titanic-Dataset-Cleaning-and-Preprocessing
-# Titanic Dataset Preprocessing
 
 This repository contains the preprocessing pipeline for the Titanic dataset. The goal was to clean and prepare the data for machine learning models by handling missing values, outliers, categorical encoding, and feature scaling.
 
